@@ -13,7 +13,8 @@ import { DashboardComponent } from './component/dashboard/dashboard.component';
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
